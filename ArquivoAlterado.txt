@@ -1,0 +1,2 @@
+Linha gerada com a função 'EscreveArquivo' 
+Linha gerada com a função 'AlteraArquivo' 
